@@ -1,0 +1,15 @@
+#Fri Apr 21 12:40:54 CST 2023
+Activity=Playing
+Confession_Channel_ID=1089229124452749483
+Confession_Counter=0
+Custom_Status=With Your Heart
+Log_Channel_ID=967685973456609320
+Message_Logger=true
+Message_Responder=true
+Message_Stalker=false
+Owner_ID=218119227142438914
+Public_Confession=false
+Reddit=false
+Reddit_Channel_ID=967685973456609320
+Stalk_ID=509683395224141827
+Status=Online
